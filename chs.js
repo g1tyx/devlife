@@ -134,7 +134,7 @@ var cnItems = {
     'Buy Energy Drink (15¢': '购买能量饮料 (15¢',
     'Success!': '成功!',
     'Your game is saved in this browser!': '您的游戏保存在这个浏览器!',
-    '': '',
+    'Frontend Web developer (+8¢/min': '前端Web开发人员(+ 8¢/分钟',
     '': '',
     '': '',
     '': '',
