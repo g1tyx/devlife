@@ -201,10 +201,10 @@ ul > li > button {
 	text-align: left;
 }
 #lottery #winner:before {
-	content: 'Winner number: ';
+	content: '获奖号码: ';
 }
 #lottery #owned:before {
-	content: 'Your number: ';
+	content: '你的号码: ';
 }
 #lottery #info {
 	background-color: rgba(0, 255, 0, .2);

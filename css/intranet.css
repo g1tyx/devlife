@@ -160,10 +160,10 @@ ul > li > button {
 	text-align: center;
 }
 #lottery #winner:before {
-	content: 'Winner number: ';
+	content: '获奖号码: ';
 }
 #lottery #owned:before {
-	content: 'Your number: ';
+	content: '你的号码: ';
 }
 #lottery #info {
 	background-color: #000;

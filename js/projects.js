@@ -179,7 +179,7 @@ Projects.resumeProject = function(projectID, button, isQuickProject){
 	// Calcular % con la diferencia de las fechas
 	var percent = Projects.calcDiffPercent(projectID)
 	bar.style.width = percent + '%'
-	var profitText = '(Time left: '+ Core.timeFormat(projectTime * 1000) +') (Profit: 0' + Core.base.moneyChar + ')'
+	var profitText = '(剩余时间: '+ Core.timeFormat(projectTime * 1000) +') (Profit: 0' + Core.base.moneyChar + ')'
 	if(Core.projects[projectID].moneyPlus > 0){
 		profitText += ' (+' + Core.numberFormat(Core.projects[projectID].moneyPlus ) + ')'
 	}
